@@ -1,0 +1,18 @@
+{
+    "title": "Darcula",
+    "name": "darcula-theme",
+    "description": "Dark theme based on JetBrains WebStorm's Darcula",
+    "version": "1.0.0",
+    "author": "Alberto Dorado <dorado.develop@gmail.com> (https://github.com/AlbertoDorado)",
+	"homepage": "https://github.com/AlbertoDorado/darcula-for-brackets",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.1.0"
+    },
+    "theme": {
+        "file": "main.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
